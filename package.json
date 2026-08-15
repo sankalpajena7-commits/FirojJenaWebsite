@@ -1,0 +1,12 @@
+{
+  "name": "firoj-jena-portfolio",
+  "version": "1.0.0",
+  "description": "Firoj Jena — Chief Designer, Clancy Global Consulting Engineers — Portfolio Website",
+  "scripts": {
+    "dev": "npx live-server --port=3040 --open=index.html --host=localhost --no-browser",
+    "start": "npx live-server --port=3040 --open=index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
